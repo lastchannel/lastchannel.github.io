@@ -21,8 +21,6 @@ svg {
 }
 
 .mobile-view {
-  background-image: url('nexus5-blank.png');
-  background-size: cover;
 }
 
 * {
